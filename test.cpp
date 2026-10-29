@@ -6,4 +6,5 @@ int main()
   std::cout << "world" << std::endl;
   std::cout << "world" << std::endl;
   std::cout << "world" << std::endl;
+  std::cout << "kyrie" << std::endl;
 }
